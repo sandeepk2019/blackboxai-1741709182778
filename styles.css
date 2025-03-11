@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #4A5568; /* Gray-700 */
+}
+
+h2 {
+    color: #2D3748; /* Gray-800 */
+}
+
+h3 {
+    color: #2B6CB0; /* Blue-600 */
+}
+
+button {
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2B6CB0; /* Blue-600 */
+}
